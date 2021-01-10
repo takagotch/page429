@@ -1,0 +1,31 @@
+# logs
+logs
+*.log
+
+# npm
+node_modules/
+jspm_packages/
+build/Release
+npm-debug.log*
+.npm
+*.tgz
+
+# yarn
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+
+# env
+.env
+.next
+.vscode
+*.lock
+
+# process
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# other
+/assets
