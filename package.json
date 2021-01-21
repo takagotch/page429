@@ -12,6 +12,6 @@
     "dotenv": "^6.0.0",
     "jsdom": "^11.11.0",
     "node-fetch": "^2.1.2",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   }
 }
